@@ -2,6 +2,19 @@
 
 소스 저장소: <https://github.com/yhy0009/pulse-server-ai> (비공개)
 
+## 실제 배포 결과
+
+2026-11-19 배포 및 HTTP/API 검증 완료:
+
+- 서비스: <https://pulse-server-ai.vercel.app>
+- 백엔드: <https://pulse-server-ai.onrender.com>
+- Swagger: <https://pulse-server-ai.onrender.com/docs>
+- 검증 기록: [evidence/deployment-checks.json](evidence/deployment-checks.json)
+
+Render는 GitHub의 `codex/deploy` 브랜치에 연결되어 자동 배포합니다. 문서만 수정할 때는 커밋 메시지에 `[skip render]`를 넣으면 실행 중인 서비스를 다시 빌드하지 않습니다.
+
+Vercel은 `frontend` 폴더에서 공식 CLI로 배포했습니다. Vercel의 GitHub 자동 배포 연결은 아직 설정하지 않았습니다. 코드를 바꾸면 해당 폴더에서 `vercel deploy --prod`로 프론트엔드를 다시 배포합니다.
+
 ## Render 백엔드
 
 | 항목 | 설정 |
@@ -16,6 +29,7 @@
 | 빌드 | `pip install -r requirements.txt` |
 | 시작 | `uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT` |
 | Health check | `/api/health` |
+| 실제 백엔드 주소 | `https://pulse-server-ai.onrender.com` |
 
 비공개 저장소에 접근할 수 있도록 Render에 해당 GitHub 저장소 읽기 권한을 연결합니다. `render.yaml`의 구성은 Render Blueprint 검증을 통과했습니다.
 
@@ -49,9 +63,9 @@ Firebase 프로젝트 `pulse-server-ai`, Standard 에디션의 `(default)` 데�
 | 프레임워크 | Other / 프레임워크 없음 |
 | 빌드 | `node build.mjs` |
 | 출력 | `dist` |
-| 환경변수 | `API_BASE_URL` = 실제 Render 백엔드의 HTTPS 주소 |
+| 환경변수 | `API_BASE_URL=https://pulse-server-ai.onrender.com` |
 
-할당된 도메인과 실제 배포 완료 여부는 별개입니다. 최종 배포 후 해당 주소의 HTTP 응답을 확인합니다.
+Vercel 배포는 `READY`이며, 프로덕션 도메인의 HTML·JavaScript·CSS와 Render 주소 설정이 모두 인증 없이 HTTP 200으로 응답하는 것을 확인했습니다. CLI 업로드 소스가 `frontend`이므로 서버 빌드에서 이 폴더의 내용이 프로젝트 루트가 됩니다. 추후 GitHub 저장소 전체를 Vercel에 연결할 때는 Root Directory를 `frontend`로 지정합니다.
 
 프론트엔드 빌드 출력에는 `index.html`, `style.css`, `app.js`, `config.js`만 포함됩니다. 테스트용 비밀값을 환경변수에 넣어도 정적 출력에 포함되지 않는 것을 검증했습니다. GPT 키와 서비스 계정 키는 Vercel에 등록하지 않습니다.
 

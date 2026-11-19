@@ -2,6 +2,16 @@
 
 가상 서버 `demo-01`의 CPU·메모리 관측값을 관리하고, 계산된 통계를 근거로 대화하는 FastAPI + 바닐라 HTML/CSS/JavaScript 서비스입니다. 모든 관측값은 합성 데이터입니다.
 
+## 배포된 서비스
+
+| 항목 | 주소 |
+| --- | --- |
+| 프론트엔드 (Vercel) | <https://pulse-server-ai.vercel.app> |
+| 백엔드 API (Render) | <https://pulse-server-ai.onrender.com> |
+| Swagger UI | <https://pulse-server-ai.onrender.com/docs> |
+
+2026-11-19에 실제 배포를 완료했습니다. 배포 환경은 Firestore와 GPT API를 사용합니다. 데이터 672개 조회, 추가·수정·삭제, 실제 GPT 응답, 대화 저장·불러오기, CORS와 정적 파일 접속을 검증했습니다. [배포 검증 결과](evidence/deployment-checks.json)에서 확인할 수 있습니다. 브라우저 시각 검증과 제출용 스크린샷은 아직 준비하지 않았습니다.
+
 ## 실행 모드
 
 프로젝트 루트의 `.env`에서 선택합니다. API 키를 입력하는 것과 실행 모드를 선택하는 것은 별개의 설정입니다.

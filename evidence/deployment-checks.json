@@ -1,0 +1,45 @@
+{
+  "checked_at_kst": "2026-11-19T22:20:29+09:00",
+  "frontend_url": "https://pulse-server-ai.vercel.app",
+  "backend_url": "https://pulse-server-ai.onrender.com",
+  "swagger_url": "https://pulse-server-ai.onrender.com/docs",
+  "backend_mode": "production",
+  "database": "firestore",
+  "ai_provider": "openai",
+  "frontend_http_checks": {
+    "/": {
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "pulse_title": true
+    },
+    "/config.js": {
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "backend_origin_correct": true
+    },
+    "/app.js": {
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "/style.css": {
+      "status": 200,
+      "content_type": "text/css; charset=utf-8"
+    }
+  },
+  "cors": {
+    "status": 200,
+    "allow_origin": "https://pulse-server-ai.vercel.app"
+  },
+  "crud": {
+    "create": 201,
+    "update": 200,
+    "summary_refreshed": true,
+    "delete": 204
+  },
+  "record_count": 672,
+  "gpt_reply": "demo-01 서버의 CPU 최고 사용률은 96.31%로 2026년 11월 5일 15시에 관측되었습니다.",
+  "conversation_saved_and_reloaded": true,
+  "temporary_metric_record_deleted": true,
+  "browser_visual_verification": false,
+  "submission_screenshots": "pending"
+}
