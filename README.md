@@ -77,4 +77,6 @@ Firestore의 Standard 에디션 `(default)` 데이터베이스와 서비스 계�
 node --check frontend/app.js
 ```
 
-`render.yaml`은 FastAPI를 `production`으로 실행하는 배포 구성입니다. `vercel.json`과 `scripts/build-frontend.mjs`는 프론트엔드에 `API_BASE_URL`을 전달합니다. 실제 Render·Vercel 배포 URL과 제출용 스크린샷은 아직 준비되지 않았습니다.
+`render.yaml`은 FastAPI를 무료 플랜의 `production` 모드로 실행하는 배포 구성입니다. Vercel의 프로젝트 루트는 **`frontend`**이며, `frontend/vercel.json`과 `frontend/build.mjs`가 정적 파일을 빌드하고 공개 백엔드 주소인 `API_BASE_URL`을 전달합니다. 프로젝트 루트의 `scripts/build-frontend.mjs`로 같은 프론트엔드를 로컬 빌드할 수도 있습니다.
+
+설정과 배포 후 확인 항목은 [DEPLOYMENT.md](DEPLOYMENT.md)에 정리했습니다. 제출용 스크린샷은 배포 후 실제 서비스에서 별도로 준비합니다.
