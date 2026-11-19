@@ -1,7 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
-  "buildCommand": "node scripts/build-frontend.mjs",
+  "buildCommand": "node build.mjs",
   "outputDirectory": "dist",
   "headers": [
     { "source": "/config.js", "headers": [{ "key": "Cache-Control", "value": "no-store" }] },
