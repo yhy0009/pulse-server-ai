@@ -1,0 +1,29 @@
+{
+  "source": "synthetic",
+  "seed": 20261114,
+  "host": "demo-01",
+  "timezone": "Asia/Seoul",
+  "start": "2026-11-01T00:00:00+09:00",
+  "end": "2026-11-14T23:00:00+09:00",
+  "interval_minutes": 60,
+  "timestamps": 336,
+  "records": 672,
+  "records_per_metric": 336,
+  "sha256": "7e11ee1cbac5c00030cefc9dadb00d83d44dd177e3befd9856b9bfa28d8d2c8f",
+  "scenarios": [
+    {
+      "start": "2026-11-05T10:00:00+09:00",
+      "end": "2026-11-05T15:00:00+09:00",
+      "event": "simulated batch workload; CPU spike"
+    },
+    {
+      "start": "2026-11-07T00:00:00+09:00",
+      "end": "2026-11-10T07:00:00+09:00",
+      "event": "simulated memory growth"
+    },
+    {
+      "start": "2026-11-10T08:00:00+09:00",
+      "event": "simulated restart; memory drops"
+    }
+  ]
+}

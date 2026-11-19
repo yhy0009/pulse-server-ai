@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10161c">
+  <meta name="description" content="CPU와 메모리 사용률을 함께 살펴보고, 저장된 데이터를 근거로 질문하는 서버 분석 비서 Pulse.">
+  <title>Pulse · 서버 분석 비서</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%239de4c2'/%3E%3Cpath d='M7 22h7l4-11 5 19 4-8h6' fill='none' stroke='%2310161c' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/style.css">
+  <script defer src="/config.js"></script>
+  <script defer src="/app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">본문으로 이동</a>
+<div class="app-shell">
+  <aside class="sidebar">
+    <a class="brand" href="/" aria-label="Pulse 홈"><span class="brand-mark" aria-hidden="true">ϟ</span><span>pulse<span class="brand-dot">.</span></span></a>
+    <div class="workspace-label">WORKSPACE</div>
+    <div class="workspace"><span class="server-symbol" aria-hidden="true">▤</span><div>서버 분석 실습<small>demo-01 · 가상 서버</small></div></div>
+    <nav aria-label="주요 메뉴">
+      <button class="nav-button active" data-view="overview" aria-current="page"><span aria-hidden="true">▦</span> 대시보드</button>
+      <button class="nav-button" data-view="data"><span aria-hidden="true">▤</span> 데이터 관리 <span class="nav-count" id="nav-count">—</span></button>
+      <button class="nav-button" data-view="history"><span aria-hidden="true">◷</span> 대화 기록</button>
+    </nav>
+    <div class="sidebar-bottom"><div class="source-label"><i></i> 합성 데이터</div><p>실제 운영 기록이 아닌<br>학습용 가상 메트릭입니다.</p><a id="docs-link" href="/docs" target="_blank" rel="noopener">API 문서 <span aria-hidden="true">↗</span></a><div class="sidebar-version">PULSE / AI NATIVE PROJECT</div></div>
+  </aside>
+  <div class="workspace-main">
+    <header class="topbar"><div class="breadcrumb">Workspace <span>/</span> <strong>demo-01</strong></div><div class="connection" id="connection"><i></i><span>연결 확인 중</span></div></header>
+    <div class="mode-banner" id="mode-banner" role="status">서버에 연결하고 있습니다.</div>
+    <div id="global-error" class="global-error" hidden><span id="global-error-text"></span><button id="retry-button" class="button small">다시 연결</button></div>
+    <div class="content-layout">
+      <main id="main" tabindex="-1">
+        <section id="view-overview" class="view">
+          <div class="page-heading"><div class="eyebrow">SERVER OVERVIEW</div><h1>서버의 흐름을, 한눈에.</h1><p>메트릭을 살펴보고 데이터에 질문해 보세요.</p></div>
+          <div class="metric-grid">
+            <article class="metric-card"><div class="metric-label"><span class="metric-icon cpu">▧</span> CPU 사용률 <span class="latest-label">마지막 관측</span></div><div class="metric-value cpu-text" id="cpu-value">—<span>%</span></div><div class="metric-detail" id="cpu-detail">데이터를 불러오는 중</div><div class="metric-track"><i id="cpu-track"></i></div></article>
+            <article class="metric-card"><div class="metric-label"><span class="metric-icon memory">▥</span> 메모리 사용률 <span class="latest-label">마지막 관측</span></div><div class="metric-value memory-text" id="memory-value">—<span>%</span></div><div class="metric-detail" id="memory-detail">데이터를 불러오는 중</div><div class="metric-track memory-track"><i id="memory-track"></i></div></article>
+            <article class="metric-card count-card"><div class="metric-label"><span class="metric-icon neutral">⠿</span> 저장된 관측값</div><div class="metric-value" id="record-count">—<span>개</span></div><div class="metric-detail" id="record-period">CPU + 메모리</div><div class="count-caption">1시간 간격 · KST</div></article>
+          </div>
+          <article class="panel chart-panel"><div class="panel-heading"><div><h2>리소스 사용 추이</h2><p id="chart-period">데이터를 불러오는 중</p></div><label class="sr-only" for="chart-range">차트 기간</label><select id="chart-range"><option value="all">전체 기간</option><option value="168">최근 7일</option><option value="24">최근 24시간</option></select></div><div class="chart-legend"><span><i class="cpu-dot"></i>CPU</span><span><i class="memory-dot"></i>메모리</span><span class="threshold-legend">┄ CPU 주의 기준 85%</span></div><div class="chart" id="metrics-chart" role="img" aria-label="CPU와 메모리 사용률 시계열 그래프"></div><div class="chart-footnote"><span><i class="source-dot"></i> 합성 데이터 · 단위 %</span><span id="last-observed">마지막 관측 —</span></div></article>
+          <article class="panel observations-panel"><div class="panel-heading"><div><div class="eyebrow">FROM YOUR DATA</div><h2>데이터에서 확인한 것</h2></div><span class="subtle-label">계산된 통계</span></div><div id="observations" class="observations"><p class="muted">통계를 불러오는 중입니다.</p></div></article>
+          <div class="main-footnote">가상 서버 demo-01 · 사용률만으로 장애 원인을 확정할 수 없습니다.</div>
+        </section>
+        <section id="view-data" class="view" hidden>
+          <div class="page-heading"><div class="eyebrow">METRIC LIBRARY</div><h1>데이터 관리</h1><p>관측값을 추가하거나 수정하면 요약과 다음 답변에 반영됩니다.</p></div>
+          <article class="panel form-panel"><h2 id="data-form-title">관측값 추가</h2><form id="data-form"><div class="form-grid"><label>메트릭<select id="data-metric" required><option value="cpu">CPU 사용률</option><option value="memory">메모리 사용률</option></select></label><label>관측 시각 (KST)<input id="data-date" type="datetime-local" required></label><label>사용률 (%)<input id="data-value" type="number" min="0" max="100" step="0.01" placeholder="예: 45.20" required></label><label class="memo-field">메모<input id="data-memo" maxlength="500" placeholder="관측 상황을 짧게 기록하세요"></label></div><div class="form-actions"><p>대상 서버 <strong>demo-01</strong> · 모든 입력은 학습용 데이터입니다.</p><button type="button" id="cancel-edit" class="button secondary" hidden>수정 취소</button><button type="submit" id="data-submit" class="button primary">관측값 추가</button></div></form></article>
+          <article class="panel table-panel"><div class="panel-heading"><h2>관측 데이터 <span id="table-count" class="inline-count">—</span></h2><div class="table-controls"><label class="sr-only" for="table-metric">데이터 메트릭 필터</label><select id="table-metric"><option value="all">전체 메트릭</option><option value="cpu">CPU</option><option value="memory">메모리</option></select><button id="export-button" class="button secondary small">CSV 내보내기 ↗</button></div></div><div class="table-scroll"><table><thead><tr><th>관측 시각 (KST)</th><th>메트릭</th><th>사용률</th><th>메모</th><th class="actions-heading">관리</th></tr></thead><tbody id="data-rows"></tbody></table></div><div class="pagination"><span id="page-label">—</span><div><button id="previous-page" class="button secondary small">이전</button><button id="next-page" class="button secondary small">다음</button></div></div></article>
+        </section>
+        <section id="view-history" class="view" hidden>
+          <div class="page-heading"><div class="eyebrow">CONVERSATION ARCHIVE</div><h1>대화 기록</h1><p>자동 저장된 대화를 불러와 이어서 질문할 수 있습니다.</p></div>
+          <div class="history-toolbar"><span id="history-count" class="muted">—</span><button id="save-copy" class="button secondary small" disabled>현재 대화 사본 저장</button></div><div id="history-list" class="history-list"></div><button id="more-history" class="button secondary" hidden>대화 더 보기</button>
+        </section>
+      </main>
+      <aside class="chat-panel panel" aria-label="서버 분석 채팅"><div class="chat-header"><div class="assistant-avatar" aria-hidden="true">ϟ</div><div><h2>데이터에 물어보세요</h2><p id="chat-provider">연결 확인 중</p></div><button id="new-chat" class="icon-button" title="새 대화" aria-label="새 대화 시작">＋</button></div><div class="chat-context"><span class="source-dot"></span><span id="chat-context">demo-01 · 데이터 연결 중</span><span class="context-lock" aria-hidden="true">⌁</span></div><div id="messages" class="messages" role="log" aria-live="polite" aria-relevant="additions"><div id="chat-welcome" class="chat-welcome"><div class="welcome-mark" aria-hidden="true">✧</div><h3>숫자 뒤의 흐름이<br>궁금할 때.</h3><p>CPU와 메모리 데이터를 근거로<br>서버 상태를 함께 살펴봅니다.</p><div class="suggestions"><button data-question="CPU가 가장 높았던 때는 언제야?">CPU가 가장 높았던 때는? <span>↗</span></button><button data-question="메모리 사용 추세는 어때?">메모리 사용 추세는 어때? <span>↗</span></button><button data-question="서버 상태를 요약해 줘">서버 상태를 요약해 줘 <span>↗</span></button></div></div></div><div id="chat-loading" class="chat-loading" role="status" hidden><span class="loading-dots">● ● ●</span> 데이터를 살펴보고 있어요</div><div id="chat-error" class="chat-error" role="alert" hidden></div><form id="chat-form" class="chat-form"><label class="sr-only" for="chat-input">서버 데이터에 대해 질문하기</label><textarea id="chat-input" rows="2" maxlength="2000" placeholder="서버 데이터에 대해 질문하세요…" required disabled></textarea><div class="compose-bottom"><span>Enter 전송 · Shift+Enter 줄바꿈</span><button id="send-button" class="send-button" type="submit" aria-label="질문 전송" disabled>↑</button></div></form><div class="chat-footer" id="chat-footer">답변은 저장된 관측값을 기준으로 합니다.</div></aside>
+    </div>
+  </div>
+</div>
+<div id="toast" class="toast" role="status" hidden></div>
+<dialog id="confirm-dialog"><form method="dialog"><div class="eyebrow">DELETE RECORD</div><h2>이 기록을 삭제할까요?</h2><p id="confirm-description"></p><div class="dialog-actions"><button class="button secondary" value="cancel">취소</button><button class="button danger" value="confirm">삭제</button></div></form></dialog>
+</body>
+</html>

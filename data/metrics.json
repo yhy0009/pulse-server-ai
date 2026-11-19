@@ -1,0 +1,5378 @@
+[
+  {
+    "id": "seed-cpu-0000",
+    "date": "2026-11-01T00:00:00+09:00",
+    "value": 23.51,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0000",
+    "date": "2026-11-01T00:00:00+09:00",
+    "value": 49.65,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0001",
+    "date": "2026-11-01T01:00:00+09:00",
+    "value": 24.21,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0001",
+    "date": "2026-11-01T01:00:00+09:00",
+    "value": 48.61,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0002",
+    "date": "2026-11-01T02:00:00+09:00",
+    "value": 22.41,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0002",
+    "date": "2026-11-01T02:00:00+09:00",
+    "value": 49.75,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0003",
+    "date": "2026-11-01T03:00:00+09:00",
+    "value": 23.28,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0003",
+    "date": "2026-11-01T03:00:00+09:00",
+    "value": 48.87,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0004",
+    "date": "2026-11-01T04:00:00+09:00",
+    "value": 25.29,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0004",
+    "date": "2026-11-01T04:00:00+09:00",
+    "value": 49.93,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0005",
+    "date": "2026-11-01T05:00:00+09:00",
+    "value": 27.51,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0005",
+    "date": "2026-11-01T05:00:00+09:00",
+    "value": 48.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0006",
+    "date": "2026-11-01T06:00:00+09:00",
+    "value": 22.53,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0006",
+    "date": "2026-11-01T06:00:00+09:00",
+    "value": 49.22,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0007",
+    "date": "2026-11-01T07:00:00+09:00",
+    "value": 23.02,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0007",
+    "date": "2026-11-01T07:00:00+09:00",
+    "value": 51.41,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0008",
+    "date": "2026-11-01T08:00:00+09:00",
+    "value": 25.12,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0008",
+    "date": "2026-11-01T08:00:00+09:00",
+    "value": 51.73,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0009",
+    "date": "2026-11-01T09:00:00+09:00",
+    "value": 51.45,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0009",
+    "date": "2026-11-01T09:00:00+09:00",
+    "value": 50.55,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0010",
+    "date": "2026-11-01T10:00:00+09:00",
+    "value": 51.89,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0010",
+    "date": "2026-11-01T10:00:00+09:00",
+    "value": 49.71,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0011",
+    "date": "2026-11-01T11:00:00+09:00",
+    "value": 49.65,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0011",
+    "date": "2026-11-01T11:00:00+09:00",
+    "value": 50.88,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0012",
+    "date": "2026-11-01T12:00:00+09:00",
+    "value": 41.22,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0012",
+    "date": "2026-11-01T12:00:00+09:00",
+    "value": 51.93,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0013",
+    "date": "2026-11-01T13:00:00+09:00",
+    "value": 45.14,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0013",
+    "date": "2026-11-01T13:00:00+09:00",
+    "value": 49.93,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0014",
+    "date": "2026-11-01T14:00:00+09:00",
+    "value": 52.61,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0014",
+    "date": "2026-11-01T14:00:00+09:00",
+    "value": 51.51,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0015",
+    "date": "2026-11-01T15:00:00+09:00",
+    "value": 42.54,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0015",
+    "date": "2026-11-01T15:00:00+09:00",
+    "value": 52.57,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0016",
+    "date": "2026-11-01T16:00:00+09:00",
+    "value": 40.74,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0016",
+    "date": "2026-11-01T16:00:00+09:00",
+    "value": 50.93,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0017",
+    "date": "2026-11-01T17:00:00+09:00",
+    "value": 42.99,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0017",
+    "date": "2026-11-01T17:00:00+09:00",
+    "value": 51.54,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0018",
+    "date": "2026-11-01T18:00:00+09:00",
+    "value": 42.68,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0018",
+    "date": "2026-11-01T18:00:00+09:00",
+    "value": 52.4,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0019",
+    "date": "2026-11-01T19:00:00+09:00",
+    "value": 19.72,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0019",
+    "date": "2026-11-01T19:00:00+09:00",
+    "value": 53.0,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0020",
+    "date": "2026-11-01T20:00:00+09:00",
+    "value": 18.85,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0020",
+    "date": "2026-11-01T20:00:00+09:00",
+    "value": 51.64,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0021",
+    "date": "2026-11-01T21:00:00+09:00",
+    "value": 17.11,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0021",
+    "date": "2026-11-01T21:00:00+09:00",
+    "value": 51.5,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0022",
+    "date": "2026-11-01T22:00:00+09:00",
+    "value": 16.09,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0022",
+    "date": "2026-11-01T22:00:00+09:00",
+    "value": 50.74,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0023",
+    "date": "2026-11-01T23:00:00+09:00",
+    "value": 17.92,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0023",
+    "date": "2026-11-01T23:00:00+09:00",
+    "value": 53.31,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0024",
+    "date": "2026-11-02T00:00:00+09:00",
+    "value": 22.88,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0024",
+    "date": "2026-11-02T00:00:00+09:00",
+    "value": 50.61,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0025",
+    "date": "2026-11-02T01:00:00+09:00",
+    "value": 25.12,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0025",
+    "date": "2026-11-02T01:00:00+09:00",
+    "value": 51.8,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0026",
+    "date": "2026-11-02T02:00:00+09:00",
+    "value": 19.77,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0026",
+    "date": "2026-11-02T02:00:00+09:00",
+    "value": 51.07,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0027",
+    "date": "2026-11-02T03:00:00+09:00",
+    "value": 18.5,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0027",
+    "date": "2026-11-02T03:00:00+09:00",
+    "value": 49.36,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0028",
+    "date": "2026-11-02T04:00:00+09:00",
+    "value": 22.45,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0028",
+    "date": "2026-11-02T04:00:00+09:00",
+    "value": 51.74,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0029",
+    "date": "2026-11-02T05:00:00+09:00",
+    "value": 25.1,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0029",
+    "date": "2026-11-02T05:00:00+09:00",
+    "value": 48.18,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0030",
+    "date": "2026-11-02T06:00:00+09:00",
+    "value": 36.18,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0030",
+    "date": "2026-11-02T06:00:00+09:00",
+    "value": 48.95,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0031",
+    "date": "2026-11-02T07:00:00+09:00",
+    "value": 24.85,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0031",
+    "date": "2026-11-02T07:00:00+09:00",
+    "value": 49.99,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0032",
+    "date": "2026-11-02T08:00:00+09:00",
+    "value": 26.04,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0032",
+    "date": "2026-11-02T08:00:00+09:00",
+    "value": 49.72,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0033",
+    "date": "2026-11-02T09:00:00+09:00",
+    "value": 50.09,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0033",
+    "date": "2026-11-02T09:00:00+09:00",
+    "value": 47.69,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0034",
+    "date": "2026-11-02T10:00:00+09:00",
+    "value": 52.42,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0034",
+    "date": "2026-11-02T10:00:00+09:00",
+    "value": 47.71,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0035",
+    "date": "2026-11-02T11:00:00+09:00",
+    "value": 53.66,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0035",
+    "date": "2026-11-02T11:00:00+09:00",
+    "value": 47.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0036",
+    "date": "2026-11-02T12:00:00+09:00",
+    "value": 53.86,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0036",
+    "date": "2026-11-02T12:00:00+09:00",
+    "value": 50.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0037",
+    "date": "2026-11-02T13:00:00+09:00",
+    "value": 50.44,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0037",
+    "date": "2026-11-02T13:00:00+09:00",
+    "value": 48.4,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0038",
+    "date": "2026-11-02T14:00:00+09:00",
+    "value": 58.97,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0038",
+    "date": "2026-11-02T14:00:00+09:00",
+    "value": 47.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0039",
+    "date": "2026-11-02T15:00:00+09:00",
+    "value": 57.1,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0039",
+    "date": "2026-11-02T15:00:00+09:00",
+    "value": 46.02,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0040",
+    "date": "2026-11-02T16:00:00+09:00",
+    "value": 54.29,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0040",
+    "date": "2026-11-02T16:00:00+09:00",
+    "value": 46.46,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0041",
+    "date": "2026-11-02T17:00:00+09:00",
+    "value": 58.13,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0041",
+    "date": "2026-11-02T17:00:00+09:00",
+    "value": 46.07,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0042",
+    "date": "2026-11-02T18:00:00+09:00",
+    "value": 55.96,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0042",
+    "date": "2026-11-02T18:00:00+09:00",
+    "value": 46.95,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0043",
+    "date": "2026-11-02T19:00:00+09:00",
+    "value": 32.92,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0043",
+    "date": "2026-11-02T19:00:00+09:00",
+    "value": 46.68,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0044",
+    "date": "2026-11-02T20:00:00+09:00",
+    "value": 31.08,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0044",
+    "date": "2026-11-02T20:00:00+09:00",
+    "value": 45.58,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0045",
+    "date": "2026-11-02T21:00:00+09:00",
+    "value": 29.11,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0045",
+    "date": "2026-11-02T21:00:00+09:00",
+    "value": 46.36,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0046",
+    "date": "2026-11-02T22:00:00+09:00",
+    "value": 23.06,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0046",
+    "date": "2026-11-02T22:00:00+09:00",
+    "value": 47.9,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0047",
+    "date": "2026-11-02T23:00:00+09:00",
+    "value": 25.38,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0047",
+    "date": "2026-11-02T23:00:00+09:00",
+    "value": 45.13,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0048",
+    "date": "2026-11-03T00:00:00+09:00",
+    "value": 27.69,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0048",
+    "date": "2026-11-03T00:00:00+09:00",
+    "value": 46.85,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0049",
+    "date": "2026-11-03T01:00:00+09:00",
+    "value": 27.61,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0049",
+    "date": "2026-11-03T01:00:00+09:00",
+    "value": 44.94,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0050",
+    "date": "2026-11-03T02:00:00+09:00",
+    "value": 24.06,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0050",
+    "date": "2026-11-03T02:00:00+09:00",
+    "value": 44.5,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0051",
+    "date": "2026-11-03T03:00:00+09:00",
+    "value": 26.34,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0051",
+    "date": "2026-11-03T03:00:00+09:00",
+    "value": 44.4,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0052",
+    "date": "2026-11-03T04:00:00+09:00",
+    "value": 21.96,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0052",
+    "date": "2026-11-03T04:00:00+09:00",
+    "value": 48.09,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0053",
+    "date": "2026-11-03T05:00:00+09:00",
+    "value": 22.55,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0053",
+    "date": "2026-11-03T05:00:00+09:00",
+    "value": 44.98,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0054",
+    "date": "2026-11-03T06:00:00+09:00",
+    "value": 23.26,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0054",
+    "date": "2026-11-03T06:00:00+09:00",
+    "value": 46.03,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0055",
+    "date": "2026-11-03T07:00:00+09:00",
+    "value": 22.53,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0055",
+    "date": "2026-11-03T07:00:00+09:00",
+    "value": 45.91,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0056",
+    "date": "2026-11-03T08:00:00+09:00",
+    "value": 19.94,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0056",
+    "date": "2026-11-03T08:00:00+09:00",
+    "value": 47.26,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0057",
+    "date": "2026-11-03T09:00:00+09:00",
+    "value": 46.33,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0057",
+    "date": "2026-11-03T09:00:00+09:00",
+    "value": 46.13,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0058",
+    "date": "2026-11-03T10:00:00+09:00",
+    "value": 49.73,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0058",
+    "date": "2026-11-03T10:00:00+09:00",
+    "value": 44.48,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0059",
+    "date": "2026-11-03T11:00:00+09:00",
+    "value": 46.0,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0059",
+    "date": "2026-11-03T11:00:00+09:00",
+    "value": 48.96,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0060",
+    "date": "2026-11-03T12:00:00+09:00",
+    "value": 50.09,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0060",
+    "date": "2026-11-03T12:00:00+09:00",
+    "value": 47.69,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0061",
+    "date": "2026-11-03T13:00:00+09:00",
+    "value": 44.17,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0061",
+    "date": "2026-11-03T13:00:00+09:00",
+    "value": 47.52,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0062",
+    "date": "2026-11-03T14:00:00+09:00",
+    "value": 48.49,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0062",
+    "date": "2026-11-03T14:00:00+09:00",
+    "value": 45.56,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0063",
+    "date": "2026-11-03T15:00:00+09:00",
+    "value": 51.86,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0063",
+    "date": "2026-11-03T15:00:00+09:00",
+    "value": 47.87,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0064",
+    "date": "2026-11-03T16:00:00+09:00",
+    "value": 50.34,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0064",
+    "date": "2026-11-03T16:00:00+09:00",
+    "value": 48.86,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0065",
+    "date": "2026-11-03T17:00:00+09:00",
+    "value": 54.55,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0065",
+    "date": "2026-11-03T17:00:00+09:00",
+    "value": 48.21,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0066",
+    "date": "2026-11-03T18:00:00+09:00",
+    "value": 48.83,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0066",
+    "date": "2026-11-03T18:00:00+09:00",
+    "value": 47.49,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0067",
+    "date": "2026-11-03T19:00:00+09:00",
+    "value": 29.8,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0067",
+    "date": "2026-11-03T19:00:00+09:00",
+    "value": 46.92,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0068",
+    "date": "2026-11-03T20:00:00+09:00",
+    "value": 30.03,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0068",
+    "date": "2026-11-03T20:00:00+09:00",
+    "value": 50.84,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0069",
+    "date": "2026-11-03T21:00:00+09:00",
+    "value": 32.57,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0069",
+    "date": "2026-11-03T21:00:00+09:00",
+    "value": 49.71,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0070",
+    "date": "2026-11-03T22:00:00+09:00",
+    "value": 31.72,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0070",
+    "date": "2026-11-03T22:00:00+09:00",
+    "value": 51.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0071",
+    "date": "2026-11-03T23:00:00+09:00",
+    "value": 32.17,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0071",
+    "date": "2026-11-03T23:00:00+09:00",
+    "value": 49.2,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0072",
+    "date": "2026-11-04T00:00:00+09:00",
+    "value": 34.09,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0072",
+    "date": "2026-11-04T00:00:00+09:00",
+    "value": 49.9,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0073",
+    "date": "2026-11-04T01:00:00+09:00",
+    "value": 30.77,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0073",
+    "date": "2026-11-04T01:00:00+09:00",
+    "value": 50.98,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0074",
+    "date": "2026-11-04T02:00:00+09:00",
+    "value": 25.96,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0074",
+    "date": "2026-11-04T02:00:00+09:00",
+    "value": 51.25,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0075",
+    "date": "2026-11-04T03:00:00+09:00",
+    "value": 32.03,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0075",
+    "date": "2026-11-04T03:00:00+09:00",
+    "value": 50.72,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0076",
+    "date": "2026-11-04T04:00:00+09:00",
+    "value": 35.45,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0076",
+    "date": "2026-11-04T04:00:00+09:00",
+    "value": 51.69,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0077",
+    "date": "2026-11-04T05:00:00+09:00",
+    "value": 26.86,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0077",
+    "date": "2026-11-04T05:00:00+09:00",
+    "value": 51.73,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0078",
+    "date": "2026-11-04T06:00:00+09:00",
+    "value": 27.44,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0078",
+    "date": "2026-11-04T06:00:00+09:00",
+    "value": 52.99,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0079",
+    "date": "2026-11-04T07:00:00+09:00",
+    "value": 23.88,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0079",
+    "date": "2026-11-04T07:00:00+09:00",
+    "value": 50.76,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0080",
+    "date": "2026-11-04T08:00:00+09:00",
+    "value": 24.32,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0080",
+    "date": "2026-11-04T08:00:00+09:00",
+    "value": 52.06,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0081",
+    "date": "2026-11-04T09:00:00+09:00",
+    "value": 46.42,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0081",
+    "date": "2026-11-04T09:00:00+09:00",
+    "value": 53.13,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0082",
+    "date": "2026-11-04T10:00:00+09:00",
+    "value": 44.88,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0082",
+    "date": "2026-11-04T10:00:00+09:00",
+    "value": 49.66,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0083",
+    "date": "2026-11-04T11:00:00+09:00",
+    "value": 42.29,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0083",
+    "date": "2026-11-04T11:00:00+09:00",
+    "value": 52.21,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0084",
+    "date": "2026-11-04T12:00:00+09:00",
+    "value": 48.01,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0084",
+    "date": "2026-11-04T12:00:00+09:00",
+    "value": 51.07,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0085",
+    "date": "2026-11-04T13:00:00+09:00",
+    "value": 43.6,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0085",
+    "date": "2026-11-04T13:00:00+09:00",
+    "value": 52.38,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0086",
+    "date": "2026-11-04T14:00:00+09:00",
+    "value": 46.61,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0086",
+    "date": "2026-11-04T14:00:00+09:00",
+    "value": 54.3,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0087",
+    "date": "2026-11-04T15:00:00+09:00",
+    "value": 41.56,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0087",
+    "date": "2026-11-04T15:00:00+09:00",
+    "value": 50.47,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0088",
+    "date": "2026-11-04T16:00:00+09:00",
+    "value": 40.96,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0088",
+    "date": "2026-11-04T16:00:00+09:00",
+    "value": 52.72,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0089",
+    "date": "2026-11-04T17:00:00+09:00",
+    "value": 42.74,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0089",
+    "date": "2026-11-04T17:00:00+09:00",
+    "value": 50.81,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0090",
+    "date": "2026-11-04T18:00:00+09:00",
+    "value": 43.07,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0090",
+    "date": "2026-11-04T18:00:00+09:00",
+    "value": 52.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0091",
+    "date": "2026-11-04T19:00:00+09:00",
+    "value": 26.71,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0091",
+    "date": "2026-11-04T19:00:00+09:00",
+    "value": 51.7,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0092",
+    "date": "2026-11-04T20:00:00+09:00",
+    "value": 21.66,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0092",
+    "date": "2026-11-04T20:00:00+09:00",
+    "value": 53.26,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0093",
+    "date": "2026-11-04T21:00:00+09:00",
+    "value": 27.02,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0093",
+    "date": "2026-11-04T21:00:00+09:00",
+    "value": 51.87,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0094",
+    "date": "2026-11-04T22:00:00+09:00",
+    "value": 25.25,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0094",
+    "date": "2026-11-04T22:00:00+09:00",
+    "value": 51.18,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0095",
+    "date": "2026-11-04T23:00:00+09:00",
+    "value": 26.16,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0095",
+    "date": "2026-11-04T23:00:00+09:00",
+    "value": 50.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0096",
+    "date": "2026-11-05T00:00:00+09:00",
+    "value": 29.21,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0096",
+    "date": "2026-11-05T00:00:00+09:00",
+    "value": 49.66,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0097",
+    "date": "2026-11-05T01:00:00+09:00",
+    "value": 32.36,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0097",
+    "date": "2026-11-05T01:00:00+09:00",
+    "value": 51.53,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0098",
+    "date": "2026-11-05T02:00:00+09:00",
+    "value": 36.77,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0098",
+    "date": "2026-11-05T02:00:00+09:00",
+    "value": 50.48,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0099",
+    "date": "2026-11-05T03:00:00+09:00",
+    "value": 30.71,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0099",
+    "date": "2026-11-05T03:00:00+09:00",
+    "value": 52.2,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0100",
+    "date": "2026-11-05T04:00:00+09:00",
+    "value": 34.1,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0100",
+    "date": "2026-11-05T04:00:00+09:00",
+    "value": 50.48,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0101",
+    "date": "2026-11-05T05:00:00+09:00",
+    "value": 26.09,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0101",
+    "date": "2026-11-05T05:00:00+09:00",
+    "value": 51.85,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0102",
+    "date": "2026-11-05T06:00:00+09:00",
+    "value": 30.79,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0102",
+    "date": "2026-11-05T06:00:00+09:00",
+    "value": 51.17,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0103",
+    "date": "2026-11-05T07:00:00+09:00",
+    "value": 34.86,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0103",
+    "date": "2026-11-05T07:00:00+09:00",
+    "value": 48.5,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0104",
+    "date": "2026-11-05T08:00:00+09:00",
+    "value": 31.87,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0104",
+    "date": "2026-11-05T08:00:00+09:00",
+    "value": 49.12,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0105",
+    "date": "2026-11-05T09:00:00+09:00",
+    "value": 54.35,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0105",
+    "date": "2026-11-05T09:00:00+09:00",
+    "value": 49.16,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0106",
+    "date": "2026-11-05T10:00:00+09:00",
+    "value": 88.65,
+    "memo": "합성 시나리오: 배치 작업과 CPU 급증",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0106",
+    "date": "2026-11-05T10:00:00+09:00",
+    "value": 47.37,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0107",
+    "date": "2026-11-05T11:00:00+09:00",
+    "value": 95.96,
+    "memo": "합성 시나리오: 배치 작업과 CPU 급증",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0107",
+    "date": "2026-11-05T11:00:00+09:00",
+    "value": 45.62,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0108",
+    "date": "2026-11-05T12:00:00+09:00",
+    "value": 90.84,
+    "memo": "합성 시나리오: 배치 작업과 CPU 급증",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0108",
+    "date": "2026-11-05T12:00:00+09:00",
+    "value": 48.52,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0109",
+    "date": "2026-11-05T13:00:00+09:00",
+    "value": 92.59,
+    "memo": "합성 시나리오: 배치 작업과 CPU 급증",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0109",
+    "date": "2026-11-05T13:00:00+09:00",
+    "value": 46.37,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0110",
+    "date": "2026-11-05T14:00:00+09:00",
+    "value": 89.11,
+    "memo": "합성 시나리오: 배치 작업과 CPU 급증",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0110",
+    "date": "2026-11-05T14:00:00+09:00",
+    "value": 48.07,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0111",
+    "date": "2026-11-05T15:00:00+09:00",
+    "value": 96.31,
+    "memo": "합성 시나리오: 배치 작업과 CPU 급증",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0111",
+    "date": "2026-11-05T15:00:00+09:00",
+    "value": 47.7,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0112",
+    "date": "2026-11-05T16:00:00+09:00",
+    "value": 42.94,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0112",
+    "date": "2026-11-05T16:00:00+09:00",
+    "value": 47.7,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0113",
+    "date": "2026-11-05T17:00:00+09:00",
+    "value": 44.47,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0113",
+    "date": "2026-11-05T17:00:00+09:00",
+    "value": 47.6,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0114",
+    "date": "2026-11-05T18:00:00+09:00",
+    "value": 50.13,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0114",
+    "date": "2026-11-05T18:00:00+09:00",
+    "value": 45.94,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0115",
+    "date": "2026-11-05T19:00:00+09:00",
+    "value": 23.01,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0115",
+    "date": "2026-11-05T19:00:00+09:00",
+    "value": 44.46,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0116",
+    "date": "2026-11-05T20:00:00+09:00",
+    "value": 22.53,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0116",
+    "date": "2026-11-05T20:00:00+09:00",
+    "value": 47.8,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0117",
+    "date": "2026-11-05T21:00:00+09:00",
+    "value": 29.65,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0117",
+    "date": "2026-11-05T21:00:00+09:00",
+    "value": 45.7,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0118",
+    "date": "2026-11-05T22:00:00+09:00",
+    "value": 24.38,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0118",
+    "date": "2026-11-05T22:00:00+09:00",
+    "value": 45.47,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0119",
+    "date": "2026-11-05T23:00:00+09:00",
+    "value": 23.31,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0119",
+    "date": "2026-11-05T23:00:00+09:00",
+    "value": 45.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0120",
+    "date": "2026-11-06T00:00:00+09:00",
+    "value": 22.62,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0120",
+    "date": "2026-11-06T00:00:00+09:00",
+    "value": 48.37,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0121",
+    "date": "2026-11-06T01:00:00+09:00",
+    "value": 17.85,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0121",
+    "date": "2026-11-06T01:00:00+09:00",
+    "value": 46.83,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0122",
+    "date": "2026-11-06T02:00:00+09:00",
+    "value": 21.01,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0122",
+    "date": "2026-11-06T02:00:00+09:00",
+    "value": 47.76,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0123",
+    "date": "2026-11-06T03:00:00+09:00",
+    "value": 23.88,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0123",
+    "date": "2026-11-06T03:00:00+09:00",
+    "value": 47.12,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0124",
+    "date": "2026-11-06T04:00:00+09:00",
+    "value": 23.8,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0124",
+    "date": "2026-11-06T04:00:00+09:00",
+    "value": 44.54,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0125",
+    "date": "2026-11-06T05:00:00+09:00",
+    "value": 25.32,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0125",
+    "date": "2026-11-06T05:00:00+09:00",
+    "value": 44.99,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0126",
+    "date": "2026-11-06T06:00:00+09:00",
+    "value": 33.26,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0126",
+    "date": "2026-11-06T06:00:00+09:00",
+    "value": 45.45,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0127",
+    "date": "2026-11-06T07:00:00+09:00",
+    "value": 31.45,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0127",
+    "date": "2026-11-06T07:00:00+09:00",
+    "value": 46.43,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0128",
+    "date": "2026-11-06T08:00:00+09:00",
+    "value": 29.47,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0128",
+    "date": "2026-11-06T08:00:00+09:00",
+    "value": 47.22,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0129",
+    "date": "2026-11-06T09:00:00+09:00",
+    "value": 53.55,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0129",
+    "date": "2026-11-06T09:00:00+09:00",
+    "value": 46.33,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0130",
+    "date": "2026-11-06T10:00:00+09:00",
+    "value": 49.41,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0130",
+    "date": "2026-11-06T10:00:00+09:00",
+    "value": 47.27,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0131",
+    "date": "2026-11-06T11:00:00+09:00",
+    "value": 54.63,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0131",
+    "date": "2026-11-06T11:00:00+09:00",
+    "value": 49.91,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0132",
+    "date": "2026-11-06T12:00:00+09:00",
+    "value": 59.59,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0132",
+    "date": "2026-11-06T12:00:00+09:00",
+    "value": 48.68,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0133",
+    "date": "2026-11-06T13:00:00+09:00",
+    "value": 54.67,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0133",
+    "date": "2026-11-06T13:00:00+09:00",
+    "value": 46.62,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0134",
+    "date": "2026-11-06T14:00:00+09:00",
+    "value": 54.34,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0134",
+    "date": "2026-11-06T14:00:00+09:00",
+    "value": 48.7,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0135",
+    "date": "2026-11-06T15:00:00+09:00",
+    "value": 57.69,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0135",
+    "date": "2026-11-06T15:00:00+09:00",
+    "value": 46.87,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0136",
+    "date": "2026-11-06T16:00:00+09:00",
+    "value": 48.34,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0136",
+    "date": "2026-11-06T16:00:00+09:00",
+    "value": 47.94,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0137",
+    "date": "2026-11-06T17:00:00+09:00",
+    "value": 54.19,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0137",
+    "date": "2026-11-06T17:00:00+09:00",
+    "value": 48.3,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0138",
+    "date": "2026-11-06T18:00:00+09:00",
+    "value": 57.14,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0138",
+    "date": "2026-11-06T18:00:00+09:00",
+    "value": 49.2,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0139",
+    "date": "2026-11-06T19:00:00+09:00",
+    "value": 26.44,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0139",
+    "date": "2026-11-06T19:00:00+09:00",
+    "value": 50.34,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0140",
+    "date": "2026-11-06T20:00:00+09:00",
+    "value": 27.08,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0140",
+    "date": "2026-11-06T20:00:00+09:00",
+    "value": 51.04,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0141",
+    "date": "2026-11-06T21:00:00+09:00",
+    "value": 21.25,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0141",
+    "date": "2026-11-06T21:00:00+09:00",
+    "value": 50.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0142",
+    "date": "2026-11-06T22:00:00+09:00",
+    "value": 28.02,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0142",
+    "date": "2026-11-06T22:00:00+09:00",
+    "value": 50.0,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0143",
+    "date": "2026-11-06T23:00:00+09:00",
+    "value": 27.36,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0143",
+    "date": "2026-11-06T23:00:00+09:00",
+    "value": 51.01,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0144",
+    "date": "2026-11-07T00:00:00+09:00",
+    "value": 26.23,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0144",
+    "date": "2026-11-07T00:00:00+09:00",
+    "value": 53.7,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0145",
+    "date": "2026-11-07T01:00:00+09:00",
+    "value": 17.37,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0145",
+    "date": "2026-11-07T01:00:00+09:00",
+    "value": 54.3,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0146",
+    "date": "2026-11-07T02:00:00+09:00",
+    "value": 14.54,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0146",
+    "date": "2026-11-07T02:00:00+09:00",
+    "value": 53.97,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0147",
+    "date": "2026-11-07T03:00:00+09:00",
+    "value": 16.44,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0147",
+    "date": "2026-11-07T03:00:00+09:00",
+    "value": 55.95,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0148",
+    "date": "2026-11-07T04:00:00+09:00",
+    "value": 14.22,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0148",
+    "date": "2026-11-07T04:00:00+09:00",
+    "value": 55.86,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0149",
+    "date": "2026-11-07T05:00:00+09:00",
+    "value": 12.2,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0149",
+    "date": "2026-11-07T05:00:00+09:00",
+    "value": 57.38,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0150",
+    "date": "2026-11-07T06:00:00+09:00",
+    "value": 11.87,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0150",
+    "date": "2026-11-07T06:00:00+09:00",
+    "value": 56.04,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0151",
+    "date": "2026-11-07T07:00:00+09:00",
+    "value": 19.43,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0151",
+    "date": "2026-11-07T07:00:00+09:00",
+    "value": 57.92,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0152",
+    "date": "2026-11-07T08:00:00+09:00",
+    "value": 20.2,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0152",
+    "date": "2026-11-07T08:00:00+09:00",
+    "value": 58.04,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0153",
+    "date": "2026-11-07T09:00:00+09:00",
+    "value": 37.92,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0153",
+    "date": "2026-11-07T09:00:00+09:00",
+    "value": 58.7,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0154",
+    "date": "2026-11-07T10:00:00+09:00",
+    "value": 33.96,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0154",
+    "date": "2026-11-07T10:00:00+09:00",
+    "value": 58.68,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0155",
+    "date": "2026-11-07T11:00:00+09:00",
+    "value": 41.41,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0155",
+    "date": "2026-11-07T11:00:00+09:00",
+    "value": 59.36,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0156",
+    "date": "2026-11-07T12:00:00+09:00",
+    "value": 47.49,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0156",
+    "date": "2026-11-07T12:00:00+09:00",
+    "value": 57.98,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0157",
+    "date": "2026-11-07T13:00:00+09:00",
+    "value": 48.15,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0157",
+    "date": "2026-11-07T13:00:00+09:00",
+    "value": 59.48,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0158",
+    "date": "2026-11-07T14:00:00+09:00",
+    "value": 43.19,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0158",
+    "date": "2026-11-07T14:00:00+09:00",
+    "value": 60.46,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0159",
+    "date": "2026-11-07T15:00:00+09:00",
+    "value": 52.03,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0159",
+    "date": "2026-11-07T15:00:00+09:00",
+    "value": 61.7,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0160",
+    "date": "2026-11-07T16:00:00+09:00",
+    "value": 47.75,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0160",
+    "date": "2026-11-07T16:00:00+09:00",
+    "value": 61.31,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0161",
+    "date": "2026-11-07T17:00:00+09:00",
+    "value": 47.58,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0161",
+    "date": "2026-11-07T17:00:00+09:00",
+    "value": 61.83,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0162",
+    "date": "2026-11-07T18:00:00+09:00",
+    "value": 48.63,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0162",
+    "date": "2026-11-07T18:00:00+09:00",
+    "value": 62.29,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0163",
+    "date": "2026-11-07T19:00:00+09:00",
+    "value": 22.08,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0163",
+    "date": "2026-11-07T19:00:00+09:00",
+    "value": 62.32,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0164",
+    "date": "2026-11-07T20:00:00+09:00",
+    "value": 28.36,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0164",
+    "date": "2026-11-07T20:00:00+09:00",
+    "value": 62.96,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0165",
+    "date": "2026-11-07T21:00:00+09:00",
+    "value": 28.01,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0165",
+    "date": "2026-11-07T21:00:00+09:00",
+    "value": 64.29,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0166",
+    "date": "2026-11-07T22:00:00+09:00",
+    "value": 25.6,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0166",
+    "date": "2026-11-07T22:00:00+09:00",
+    "value": 64.19,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0167",
+    "date": "2026-11-07T23:00:00+09:00",
+    "value": 29.21,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0167",
+    "date": "2026-11-07T23:00:00+09:00",
+    "value": 64.12,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0168",
+    "date": "2026-11-08T00:00:00+09:00",
+    "value": 23.3,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0168",
+    "date": "2026-11-08T00:00:00+09:00",
+    "value": 66.0,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0169",
+    "date": "2026-11-08T01:00:00+09:00",
+    "value": 22.99,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0169",
+    "date": "2026-11-08T01:00:00+09:00",
+    "value": 66.61,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0170",
+    "date": "2026-11-08T02:00:00+09:00",
+    "value": 22.81,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0170",
+    "date": "2026-11-08T02:00:00+09:00",
+    "value": 67.75,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0171",
+    "date": "2026-11-08T03:00:00+09:00",
+    "value": 19.16,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0171",
+    "date": "2026-11-08T03:00:00+09:00",
+    "value": 67.56,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0172",
+    "date": "2026-11-08T04:00:00+09:00",
+    "value": 21.35,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0172",
+    "date": "2026-11-08T04:00:00+09:00",
+    "value": 68.14,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0173",
+    "date": "2026-11-08T05:00:00+09:00",
+    "value": 21.1,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0173",
+    "date": "2026-11-08T05:00:00+09:00",
+    "value": 67.99,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0174",
+    "date": "2026-11-08T06:00:00+09:00",
+    "value": 17.71,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0174",
+    "date": "2026-11-08T06:00:00+09:00",
+    "value": 69.12,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0175",
+    "date": "2026-11-08T07:00:00+09:00",
+    "value": 18.11,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0175",
+    "date": "2026-11-08T07:00:00+09:00",
+    "value": 69.55,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0176",
+    "date": "2026-11-08T08:00:00+09:00",
+    "value": 13.58,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0176",
+    "date": "2026-11-08T08:00:00+09:00",
+    "value": 68.5,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0177",
+    "date": "2026-11-08T09:00:00+09:00",
+    "value": 36.63,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0177",
+    "date": "2026-11-08T09:00:00+09:00",
+    "value": 69.35,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0178",
+    "date": "2026-11-08T10:00:00+09:00",
+    "value": 41.92,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0178",
+    "date": "2026-11-08T10:00:00+09:00",
+    "value": 70.14,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0179",
+    "date": "2026-11-08T11:00:00+09:00",
+    "value": 40.09,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0179",
+    "date": "2026-11-08T11:00:00+09:00",
+    "value": 69.81,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0180",
+    "date": "2026-11-08T12:00:00+09:00",
+    "value": 45.73,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0180",
+    "date": "2026-11-08T12:00:00+09:00",
+    "value": 70.84,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0181",
+    "date": "2026-11-08T13:00:00+09:00",
+    "value": 38.95,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0181",
+    "date": "2026-11-08T13:00:00+09:00",
+    "value": 71.35,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0182",
+    "date": "2026-11-08T14:00:00+09:00",
+    "value": 35.36,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0182",
+    "date": "2026-11-08T14:00:00+09:00",
+    "value": 71.38,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0183",
+    "date": "2026-11-08T15:00:00+09:00",
+    "value": 40.04,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0183",
+    "date": "2026-11-08T15:00:00+09:00",
+    "value": 72.66,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0184",
+    "date": "2026-11-08T16:00:00+09:00",
+    "value": 35.51,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0184",
+    "date": "2026-11-08T16:00:00+09:00",
+    "value": 72.19,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0185",
+    "date": "2026-11-08T17:00:00+09:00",
+    "value": 35.04,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0185",
+    "date": "2026-11-08T17:00:00+09:00",
+    "value": 73.59,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0186",
+    "date": "2026-11-08T18:00:00+09:00",
+    "value": 36.28,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0186",
+    "date": "2026-11-08T18:00:00+09:00",
+    "value": 74.49,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0187",
+    "date": "2026-11-08T19:00:00+09:00",
+    "value": 21.37,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0187",
+    "date": "2026-11-08T19:00:00+09:00",
+    "value": 74.7,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0188",
+    "date": "2026-11-08T20:00:00+09:00",
+    "value": 18.8,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0188",
+    "date": "2026-11-08T20:00:00+09:00",
+    "value": 74.44,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0189",
+    "date": "2026-11-08T21:00:00+09:00",
+    "value": 21.92,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0189",
+    "date": "2026-11-08T21:00:00+09:00",
+    "value": 75.98,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0190",
+    "date": "2026-11-08T22:00:00+09:00",
+    "value": 19.45,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0190",
+    "date": "2026-11-08T22:00:00+09:00",
+    "value": 75.4,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0191",
+    "date": "2026-11-08T23:00:00+09:00",
+    "value": 26.52,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0191",
+    "date": "2026-11-08T23:00:00+09:00",
+    "value": 75.44,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0192",
+    "date": "2026-11-09T00:00:00+09:00",
+    "value": 32.26,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0192",
+    "date": "2026-11-09T00:00:00+09:00",
+    "value": 76.72,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0193",
+    "date": "2026-11-09T01:00:00+09:00",
+    "value": 28.57,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0193",
+    "date": "2026-11-09T01:00:00+09:00",
+    "value": 77.47,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0194",
+    "date": "2026-11-09T02:00:00+09:00",
+    "value": 36.91,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0194",
+    "date": "2026-11-09T02:00:00+09:00",
+    "value": 77.43,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0195",
+    "date": "2026-11-09T03:00:00+09:00",
+    "value": 34.43,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0195",
+    "date": "2026-11-09T03:00:00+09:00",
+    "value": 79.69,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0196",
+    "date": "2026-11-09T04:00:00+09:00",
+    "value": 33.12,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0196",
+    "date": "2026-11-09T04:00:00+09:00",
+    "value": 79.55,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0197",
+    "date": "2026-11-09T05:00:00+09:00",
+    "value": 33.18,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0197",
+    "date": "2026-11-09T05:00:00+09:00",
+    "value": 79.98,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0198",
+    "date": "2026-11-09T06:00:00+09:00",
+    "value": 34.39,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0198",
+    "date": "2026-11-09T06:00:00+09:00",
+    "value": 79.34,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0199",
+    "date": "2026-11-09T07:00:00+09:00",
+    "value": 30.27,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0199",
+    "date": "2026-11-09T07:00:00+09:00",
+    "value": 79.87,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0200",
+    "date": "2026-11-09T08:00:00+09:00",
+    "value": 29.59,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0200",
+    "date": "2026-11-09T08:00:00+09:00",
+    "value": 78.82,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0201",
+    "date": "2026-11-09T09:00:00+09:00",
+    "value": 54.09,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0201",
+    "date": "2026-11-09T09:00:00+09:00",
+    "value": 80.42,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0202",
+    "date": "2026-11-09T10:00:00+09:00",
+    "value": 53.15,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0202",
+    "date": "2026-11-09T10:00:00+09:00",
+    "value": 81.22,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0203",
+    "date": "2026-11-09T11:00:00+09:00",
+    "value": 51.12,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0203",
+    "date": "2026-11-09T11:00:00+09:00",
+    "value": 81.85,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0204",
+    "date": "2026-11-09T12:00:00+09:00",
+    "value": 45.24,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0204",
+    "date": "2026-11-09T12:00:00+09:00",
+    "value": 81.83,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0205",
+    "date": "2026-11-09T13:00:00+09:00",
+    "value": 43.41,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0205",
+    "date": "2026-11-09T13:00:00+09:00",
+    "value": 83.17,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0206",
+    "date": "2026-11-09T14:00:00+09:00",
+    "value": 51.86,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0206",
+    "date": "2026-11-09T14:00:00+09:00",
+    "value": 83.72,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0207",
+    "date": "2026-11-09T15:00:00+09:00",
+    "value": 49.31,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0207",
+    "date": "2026-11-09T15:00:00+09:00",
+    "value": 82.63,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0208",
+    "date": "2026-11-09T16:00:00+09:00",
+    "value": 48.09,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0208",
+    "date": "2026-11-09T16:00:00+09:00",
+    "value": 83.82,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0209",
+    "date": "2026-11-09T17:00:00+09:00",
+    "value": 46.22,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0209",
+    "date": "2026-11-09T17:00:00+09:00",
+    "value": 84.16,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0210",
+    "date": "2026-11-09T18:00:00+09:00",
+    "value": 43.35,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0210",
+    "date": "2026-11-09T18:00:00+09:00",
+    "value": 84.38,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0211",
+    "date": "2026-11-09T19:00:00+09:00",
+    "value": 22.3,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0211",
+    "date": "2026-11-09T19:00:00+09:00",
+    "value": 86.0,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0212",
+    "date": "2026-11-09T20:00:00+09:00",
+    "value": 27.03,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0212",
+    "date": "2026-11-09T20:00:00+09:00",
+    "value": 86.06,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0213",
+    "date": "2026-11-09T21:00:00+09:00",
+    "value": 20.78,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0213",
+    "date": "2026-11-09T21:00:00+09:00",
+    "value": 85.19,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0214",
+    "date": "2026-11-09T22:00:00+09:00",
+    "value": 20.6,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0214",
+    "date": "2026-11-09T22:00:00+09:00",
+    "value": 87.81,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0215",
+    "date": "2026-11-09T23:00:00+09:00",
+    "value": 20.74,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0215",
+    "date": "2026-11-09T23:00:00+09:00",
+    "value": 88.34,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0216",
+    "date": "2026-11-10T00:00:00+09:00",
+    "value": 21.89,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0216",
+    "date": "2026-11-10T00:00:00+09:00",
+    "value": 88.78,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0217",
+    "date": "2026-11-10T01:00:00+09:00",
+    "value": 25.4,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0217",
+    "date": "2026-11-10T01:00:00+09:00",
+    "value": 88.58,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0218",
+    "date": "2026-11-10T02:00:00+09:00",
+    "value": 24.45,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0218",
+    "date": "2026-11-10T02:00:00+09:00",
+    "value": 88.49,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0219",
+    "date": "2026-11-10T03:00:00+09:00",
+    "value": 21.4,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0219",
+    "date": "2026-11-10T03:00:00+09:00",
+    "value": 91.38,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0220",
+    "date": "2026-11-10T04:00:00+09:00",
+    "value": 24.33,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0220",
+    "date": "2026-11-10T04:00:00+09:00",
+    "value": 90.42,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0221",
+    "date": "2026-11-10T05:00:00+09:00",
+    "value": 31.82,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0221",
+    "date": "2026-11-10T05:00:00+09:00",
+    "value": 91.0,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0222",
+    "date": "2026-11-10T06:00:00+09:00",
+    "value": 29.89,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0222",
+    "date": "2026-11-10T06:00:00+09:00",
+    "value": 91.77,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0223",
+    "date": "2026-11-10T07:00:00+09:00",
+    "value": 28.1,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0223",
+    "date": "2026-11-10T07:00:00+09:00",
+    "value": 91.23,
+    "memo": "합성 시나리오: 메모리 사용량의 지속 증가",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0224",
+    "date": "2026-11-10T08:00:00+09:00",
+    "value": 30.97,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0224",
+    "date": "2026-11-10T08:00:00+09:00",
+    "value": 42,
+    "memo": "합성 시나리오: 재시작 후 메모리 감소",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0225",
+    "date": "2026-11-10T09:00:00+09:00",
+    "value": 53.22,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0225",
+    "date": "2026-11-10T09:00:00+09:00",
+    "value": 50.26,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0226",
+    "date": "2026-11-10T10:00:00+09:00",
+    "value": 56.64,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0226",
+    "date": "2026-11-10T10:00:00+09:00",
+    "value": 52.44,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0227",
+    "date": "2026-11-10T11:00:00+09:00",
+    "value": 55.19,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0227",
+    "date": "2026-11-10T11:00:00+09:00",
+    "value": 55.55,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0228",
+    "date": "2026-11-10T12:00:00+09:00",
+    "value": 52.83,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0228",
+    "date": "2026-11-10T12:00:00+09:00",
+    "value": 53.52,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0229",
+    "date": "2026-11-10T13:00:00+09:00",
+    "value": 54.99,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0229",
+    "date": "2026-11-10T13:00:00+09:00",
+    "value": 51.78,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0230",
+    "date": "2026-11-10T14:00:00+09:00",
+    "value": 50.69,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0230",
+    "date": "2026-11-10T14:00:00+09:00",
+    "value": 52.05,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0231",
+    "date": "2026-11-10T15:00:00+09:00",
+    "value": 56.9,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0231",
+    "date": "2026-11-10T15:00:00+09:00",
+    "value": 51.25,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0232",
+    "date": "2026-11-10T16:00:00+09:00",
+    "value": 52.38,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0232",
+    "date": "2026-11-10T16:00:00+09:00",
+    "value": 50.12,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0233",
+    "date": "2026-11-10T17:00:00+09:00",
+    "value": 56.81,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0233",
+    "date": "2026-11-10T17:00:00+09:00",
+    "value": 51.27,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0234",
+    "date": "2026-11-10T18:00:00+09:00",
+    "value": 49.13,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0234",
+    "date": "2026-11-10T18:00:00+09:00",
+    "value": 48.72,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0235",
+    "date": "2026-11-10T19:00:00+09:00",
+    "value": 29.55,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0235",
+    "date": "2026-11-10T19:00:00+09:00",
+    "value": 51.64,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0236",
+    "date": "2026-11-10T20:00:00+09:00",
+    "value": 26.47,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0236",
+    "date": "2026-11-10T20:00:00+09:00",
+    "value": 49.55,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0237",
+    "date": "2026-11-10T21:00:00+09:00",
+    "value": 22.12,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0237",
+    "date": "2026-11-10T21:00:00+09:00",
+    "value": 50.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0238",
+    "date": "2026-11-10T22:00:00+09:00",
+    "value": 25.22,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0238",
+    "date": "2026-11-10T22:00:00+09:00",
+    "value": 51.8,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0239",
+    "date": "2026-11-10T23:00:00+09:00",
+    "value": 21.48,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0239",
+    "date": "2026-11-10T23:00:00+09:00",
+    "value": 47.98,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0240",
+    "date": "2026-11-11T00:00:00+09:00",
+    "value": 23.98,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0240",
+    "date": "2026-11-11T00:00:00+09:00",
+    "value": 50.38,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0241",
+    "date": "2026-11-11T01:00:00+09:00",
+    "value": 24.44,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0241",
+    "date": "2026-11-11T01:00:00+09:00",
+    "value": 48.9,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0242",
+    "date": "2026-11-11T02:00:00+09:00",
+    "value": 23.12,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0242",
+    "date": "2026-11-11T02:00:00+09:00",
+    "value": 50.14,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0243",
+    "date": "2026-11-11T03:00:00+09:00",
+    "value": 24.25,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0243",
+    "date": "2026-11-11T03:00:00+09:00",
+    "value": 48.6,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0244",
+    "date": "2026-11-11T04:00:00+09:00",
+    "value": 20.07,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0244",
+    "date": "2026-11-11T04:00:00+09:00",
+    "value": 47.17,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0245",
+    "date": "2026-11-11T05:00:00+09:00",
+    "value": 25.63,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0245",
+    "date": "2026-11-11T05:00:00+09:00",
+    "value": 47.54,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0246",
+    "date": "2026-11-11T06:00:00+09:00",
+    "value": 22.94,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0246",
+    "date": "2026-11-11T06:00:00+09:00",
+    "value": 47.13,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0247",
+    "date": "2026-11-11T07:00:00+09:00",
+    "value": 26.33,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0247",
+    "date": "2026-11-11T07:00:00+09:00",
+    "value": 47.7,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0248",
+    "date": "2026-11-11T08:00:00+09:00",
+    "value": 20.03,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0248",
+    "date": "2026-11-11T08:00:00+09:00",
+    "value": 49.06,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0249",
+    "date": "2026-11-11T09:00:00+09:00",
+    "value": 46.75,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0249",
+    "date": "2026-11-11T09:00:00+09:00",
+    "value": 46.64,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0250",
+    "date": "2026-11-11T10:00:00+09:00",
+    "value": 47.86,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0250",
+    "date": "2026-11-11T10:00:00+09:00",
+    "value": 46.74,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0251",
+    "date": "2026-11-11T11:00:00+09:00",
+    "value": 44.42,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0251",
+    "date": "2026-11-11T11:00:00+09:00",
+    "value": 45.46,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0252",
+    "date": "2026-11-11T12:00:00+09:00",
+    "value": 54.22,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0252",
+    "date": "2026-11-11T12:00:00+09:00",
+    "value": 46.38,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0253",
+    "date": "2026-11-11T13:00:00+09:00",
+    "value": 50.37,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0253",
+    "date": "2026-11-11T13:00:00+09:00",
+    "value": 48.35,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0254",
+    "date": "2026-11-11T14:00:00+09:00",
+    "value": 52.85,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0254",
+    "date": "2026-11-11T14:00:00+09:00",
+    "value": 46.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0255",
+    "date": "2026-11-11T15:00:00+09:00",
+    "value": 52.68,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0255",
+    "date": "2026-11-11T15:00:00+09:00",
+    "value": 46.28,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0256",
+    "date": "2026-11-11T16:00:00+09:00",
+    "value": 54.79,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0256",
+    "date": "2026-11-11T16:00:00+09:00",
+    "value": 45.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0257",
+    "date": "2026-11-11T17:00:00+09:00",
+    "value": 60.05,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0257",
+    "date": "2026-11-11T17:00:00+09:00",
+    "value": 45.09,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0258",
+    "date": "2026-11-11T18:00:00+09:00",
+    "value": 54.62,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0258",
+    "date": "2026-11-11T18:00:00+09:00",
+    "value": 46.69,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0259",
+    "date": "2026-11-11T19:00:00+09:00",
+    "value": 31.97,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0259",
+    "date": "2026-11-11T19:00:00+09:00",
+    "value": 46.23,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0260",
+    "date": "2026-11-11T20:00:00+09:00",
+    "value": 32.25,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0260",
+    "date": "2026-11-11T20:00:00+09:00",
+    "value": 47.94,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0261",
+    "date": "2026-11-11T21:00:00+09:00",
+    "value": 30.89,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0261",
+    "date": "2026-11-11T21:00:00+09:00",
+    "value": 43.7,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0262",
+    "date": "2026-11-11T22:00:00+09:00",
+    "value": 28.52,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0262",
+    "date": "2026-11-11T22:00:00+09:00",
+    "value": 45.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0263",
+    "date": "2026-11-11T23:00:00+09:00",
+    "value": 31.89,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0263",
+    "date": "2026-11-11T23:00:00+09:00",
+    "value": 47.46,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0264",
+    "date": "2026-11-12T00:00:00+09:00",
+    "value": 28.15,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0264",
+    "date": "2026-11-12T00:00:00+09:00",
+    "value": 45.01,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0265",
+    "date": "2026-11-12T01:00:00+09:00",
+    "value": 25.74,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0265",
+    "date": "2026-11-12T01:00:00+09:00",
+    "value": 47.42,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0266",
+    "date": "2026-11-12T02:00:00+09:00",
+    "value": 31.85,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0266",
+    "date": "2026-11-12T02:00:00+09:00",
+    "value": 47.56,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0267",
+    "date": "2026-11-12T03:00:00+09:00",
+    "value": 25.49,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0267",
+    "date": "2026-11-12T03:00:00+09:00",
+    "value": 47.36,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0268",
+    "date": "2026-11-12T04:00:00+09:00",
+    "value": 30.43,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0268",
+    "date": "2026-11-12T04:00:00+09:00",
+    "value": 46.8,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0269",
+    "date": "2026-11-12T05:00:00+09:00",
+    "value": 27.94,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0269",
+    "date": "2026-11-12T05:00:00+09:00",
+    "value": 46.73,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0270",
+    "date": "2026-11-12T06:00:00+09:00",
+    "value": 21.37,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0270",
+    "date": "2026-11-12T06:00:00+09:00",
+    "value": 47.88,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0271",
+    "date": "2026-11-12T07:00:00+09:00",
+    "value": 20.14,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0271",
+    "date": "2026-11-12T07:00:00+09:00",
+    "value": 46.79,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0272",
+    "date": "2026-11-12T08:00:00+09:00",
+    "value": 20.74,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0272",
+    "date": "2026-11-12T08:00:00+09:00",
+    "value": 47.63,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0273",
+    "date": "2026-11-12T09:00:00+09:00",
+    "value": 46.56,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0273",
+    "date": "2026-11-12T09:00:00+09:00",
+    "value": 46.02,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0274",
+    "date": "2026-11-12T10:00:00+09:00",
+    "value": 46.63,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0274",
+    "date": "2026-11-12T10:00:00+09:00",
+    "value": 46.63,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0275",
+    "date": "2026-11-12T11:00:00+09:00",
+    "value": 49.21,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0275",
+    "date": "2026-11-12T11:00:00+09:00",
+    "value": 48.68,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0276",
+    "date": "2026-11-12T12:00:00+09:00",
+    "value": 43.53,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0276",
+    "date": "2026-11-12T12:00:00+09:00",
+    "value": 48.56,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0277",
+    "date": "2026-11-12T13:00:00+09:00",
+    "value": 47.46,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0277",
+    "date": "2026-11-12T13:00:00+09:00",
+    "value": 49.9,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0278",
+    "date": "2026-11-12T14:00:00+09:00",
+    "value": 43.48,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0278",
+    "date": "2026-11-12T14:00:00+09:00",
+    "value": 49.4,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0279",
+    "date": "2026-11-12T15:00:00+09:00",
+    "value": 47.71,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0279",
+    "date": "2026-11-12T15:00:00+09:00",
+    "value": 51.84,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0280",
+    "date": "2026-11-12T16:00:00+09:00",
+    "value": 48.07,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0280",
+    "date": "2026-11-12T16:00:00+09:00",
+    "value": 49.18,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0281",
+    "date": "2026-11-12T17:00:00+09:00",
+    "value": 43.54,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0281",
+    "date": "2026-11-12T17:00:00+09:00",
+    "value": 49.44,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0282",
+    "date": "2026-11-12T18:00:00+09:00",
+    "value": 45.92,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0282",
+    "date": "2026-11-12T18:00:00+09:00",
+    "value": 51.28,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0283",
+    "date": "2026-11-12T19:00:00+09:00",
+    "value": 29.07,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0283",
+    "date": "2026-11-12T19:00:00+09:00",
+    "value": 50.22,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0284",
+    "date": "2026-11-12T20:00:00+09:00",
+    "value": 28.06,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0284",
+    "date": "2026-11-12T20:00:00+09:00",
+    "value": 49.78,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0285",
+    "date": "2026-11-12T21:00:00+09:00",
+    "value": 25.59,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0285",
+    "date": "2026-11-12T21:00:00+09:00",
+    "value": 49.76,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0286",
+    "date": "2026-11-12T22:00:00+09:00",
+    "value": 31.44,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0286",
+    "date": "2026-11-12T22:00:00+09:00",
+    "value": 51.76,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0287",
+    "date": "2026-11-12T23:00:00+09:00",
+    "value": 36.21,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0287",
+    "date": "2026-11-12T23:00:00+09:00",
+    "value": 48.99,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0288",
+    "date": "2026-11-13T00:00:00+09:00",
+    "value": 29.83,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0288",
+    "date": "2026-11-13T00:00:00+09:00",
+    "value": 51.88,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0289",
+    "date": "2026-11-13T01:00:00+09:00",
+    "value": 35.9,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0289",
+    "date": "2026-11-13T01:00:00+09:00",
+    "value": 52.28,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0290",
+    "date": "2026-11-13T02:00:00+09:00",
+    "value": 29.66,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0290",
+    "date": "2026-11-13T02:00:00+09:00",
+    "value": 52.72,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0291",
+    "date": "2026-11-13T03:00:00+09:00",
+    "value": 32.52,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0291",
+    "date": "2026-11-13T03:00:00+09:00",
+    "value": 51.0,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0292",
+    "date": "2026-11-13T04:00:00+09:00",
+    "value": 29.41,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0292",
+    "date": "2026-11-13T04:00:00+09:00",
+    "value": 51.09,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0293",
+    "date": "2026-11-13T05:00:00+09:00",
+    "value": 29.87,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0293",
+    "date": "2026-11-13T05:00:00+09:00",
+    "value": 51.36,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0294",
+    "date": "2026-11-13T06:00:00+09:00",
+    "value": 23.79,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0294",
+    "date": "2026-11-13T06:00:00+09:00",
+    "value": 51.76,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0295",
+    "date": "2026-11-13T07:00:00+09:00",
+    "value": 30.92,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0295",
+    "date": "2026-11-13T07:00:00+09:00",
+    "value": 52.04,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0296",
+    "date": "2026-11-13T08:00:00+09:00",
+    "value": 25.67,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0296",
+    "date": "2026-11-13T08:00:00+09:00",
+    "value": 51.16,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0297",
+    "date": "2026-11-13T09:00:00+09:00",
+    "value": 51.53,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0297",
+    "date": "2026-11-13T09:00:00+09:00",
+    "value": 52.46,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0298",
+    "date": "2026-11-13T10:00:00+09:00",
+    "value": 50.32,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0298",
+    "date": "2026-11-13T10:00:00+09:00",
+    "value": 51.6,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0299",
+    "date": "2026-11-13T11:00:00+09:00",
+    "value": 55.57,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0299",
+    "date": "2026-11-13T11:00:00+09:00",
+    "value": 52.97,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0300",
+    "date": "2026-11-13T12:00:00+09:00",
+    "value": 49.96,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0300",
+    "date": "2026-11-13T12:00:00+09:00",
+    "value": 51.08,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0301",
+    "date": "2026-11-13T13:00:00+09:00",
+    "value": 46.0,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0301",
+    "date": "2026-11-13T13:00:00+09:00",
+    "value": 50.66,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0302",
+    "date": "2026-11-13T14:00:00+09:00",
+    "value": 49.09,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0302",
+    "date": "2026-11-13T14:00:00+09:00",
+    "value": 48.74,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0303",
+    "date": "2026-11-13T15:00:00+09:00",
+    "value": 46.42,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0303",
+    "date": "2026-11-13T15:00:00+09:00",
+    "value": 52.77,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0304",
+    "date": "2026-11-13T16:00:00+09:00",
+    "value": 48.82,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0304",
+    "date": "2026-11-13T16:00:00+09:00",
+    "value": 51.58,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0305",
+    "date": "2026-11-13T17:00:00+09:00",
+    "value": 47.32,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0305",
+    "date": "2026-11-13T17:00:00+09:00",
+    "value": 51.84,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0306",
+    "date": "2026-11-13T18:00:00+09:00",
+    "value": 49.4,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0306",
+    "date": "2026-11-13T18:00:00+09:00",
+    "value": 49.5,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0307",
+    "date": "2026-11-13T19:00:00+09:00",
+    "value": 20.09,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0307",
+    "date": "2026-11-13T19:00:00+09:00",
+    "value": 48.77,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0308",
+    "date": "2026-11-13T20:00:00+09:00",
+    "value": 20.29,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0308",
+    "date": "2026-11-13T20:00:00+09:00",
+    "value": 48.91,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0309",
+    "date": "2026-11-13T21:00:00+09:00",
+    "value": 17.81,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0309",
+    "date": "2026-11-13T21:00:00+09:00",
+    "value": 46.23,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0310",
+    "date": "2026-11-13T22:00:00+09:00",
+    "value": 23.9,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0310",
+    "date": "2026-11-13T22:00:00+09:00",
+    "value": 49.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0311",
+    "date": "2026-11-13T23:00:00+09:00",
+    "value": 19.66,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0311",
+    "date": "2026-11-13T23:00:00+09:00",
+    "value": 48.32,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0312",
+    "date": "2026-11-14T00:00:00+09:00",
+    "value": 19.83,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0312",
+    "date": "2026-11-14T00:00:00+09:00",
+    "value": 49.18,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0313",
+    "date": "2026-11-14T01:00:00+09:00",
+    "value": 21.55,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0313",
+    "date": "2026-11-14T01:00:00+09:00",
+    "value": 46.39,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0314",
+    "date": "2026-11-14T02:00:00+09:00",
+    "value": 21.64,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0314",
+    "date": "2026-11-14T02:00:00+09:00",
+    "value": 48.25,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0315",
+    "date": "2026-11-14T03:00:00+09:00",
+    "value": 20.58,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0315",
+    "date": "2026-11-14T03:00:00+09:00",
+    "value": 47.45,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0316",
+    "date": "2026-11-14T04:00:00+09:00",
+    "value": 21.36,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0316",
+    "date": "2026-11-14T04:00:00+09:00",
+    "value": 48.33,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0317",
+    "date": "2026-11-14T05:00:00+09:00",
+    "value": 26.77,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0317",
+    "date": "2026-11-14T05:00:00+09:00",
+    "value": 46.48,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0318",
+    "date": "2026-11-14T06:00:00+09:00",
+    "value": 22.69,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0318",
+    "date": "2026-11-14T06:00:00+09:00",
+    "value": 46.64,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0319",
+    "date": "2026-11-14T07:00:00+09:00",
+    "value": 20.78,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0319",
+    "date": "2026-11-14T07:00:00+09:00",
+    "value": 48.98,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0320",
+    "date": "2026-11-14T08:00:00+09:00",
+    "value": 26.65,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0320",
+    "date": "2026-11-14T08:00:00+09:00",
+    "value": 48.45,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0321",
+    "date": "2026-11-14T09:00:00+09:00",
+    "value": 51.35,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0321",
+    "date": "2026-11-14T09:00:00+09:00",
+    "value": 45.63,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0322",
+    "date": "2026-11-14T10:00:00+09:00",
+    "value": 45.92,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0322",
+    "date": "2026-11-14T10:00:00+09:00",
+    "value": 46.31,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0323",
+    "date": "2026-11-14T11:00:00+09:00",
+    "value": 48.7,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0323",
+    "date": "2026-11-14T11:00:00+09:00",
+    "value": 47.79,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0324",
+    "date": "2026-11-14T12:00:00+09:00",
+    "value": 51.0,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0324",
+    "date": "2026-11-14T12:00:00+09:00",
+    "value": 47.28,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0325",
+    "date": "2026-11-14T13:00:00+09:00",
+    "value": 49.77,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0325",
+    "date": "2026-11-14T13:00:00+09:00",
+    "value": 44.87,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0326",
+    "date": "2026-11-14T14:00:00+09:00",
+    "value": 50.42,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0326",
+    "date": "2026-11-14T14:00:00+09:00",
+    "value": 47.58,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0327",
+    "date": "2026-11-14T15:00:00+09:00",
+    "value": 44.59,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0327",
+    "date": "2026-11-14T15:00:00+09:00",
+    "value": 44.47,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0328",
+    "date": "2026-11-14T16:00:00+09:00",
+    "value": 44.5,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0328",
+    "date": "2026-11-14T16:00:00+09:00",
+    "value": 43.79,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0329",
+    "date": "2026-11-14T17:00:00+09:00",
+    "value": 42.49,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0329",
+    "date": "2026-11-14T17:00:00+09:00",
+    "value": 45.65,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0330",
+    "date": "2026-11-14T18:00:00+09:00",
+    "value": 43.13,
+    "memo": "합성: 주간 부하 패턴",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0330",
+    "date": "2026-11-14T18:00:00+09:00",
+    "value": 44.09,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0331",
+    "date": "2026-11-14T19:00:00+09:00",
+    "value": 11.76,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0331",
+    "date": "2026-11-14T19:00:00+09:00",
+    "value": 46.83,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0332",
+    "date": "2026-11-14T20:00:00+09:00",
+    "value": 15.92,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0332",
+    "date": "2026-11-14T20:00:00+09:00",
+    "value": 46.09,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0333",
+    "date": "2026-11-14T21:00:00+09:00",
+    "value": 18.21,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0333",
+    "date": "2026-11-14T21:00:00+09:00",
+    "value": 46.17,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0334",
+    "date": "2026-11-14T22:00:00+09:00",
+    "value": 18.89,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0334",
+    "date": "2026-11-14T22:00:00+09:00",
+    "value": 47.36,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-cpu-0335",
+    "date": "2026-11-14T23:00:00+09:00",
+    "value": 18.1,
+    "memo": "합성: 야간 정상 부하",
+    "metric": "cpu",
+    "host": "demo-01"
+  },
+  {
+    "id": "seed-memory-0335",
+    "date": "2026-11-14T23:00:00+09:00",
+    "value": 45.75,
+    "memo": "합성: 정상 메모리 사용",
+    "metric": "memory",
+    "host": "demo-01"
+  }
+]

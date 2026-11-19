@@ -1,0 +1,219 @@
+{
+  "source": "synthetic",
+  "host": "demo-01",
+  "unit": "%",
+  "count": 672,
+  "period": {
+    "start": "2026-11-01T00:00:00+09:00",
+    "end": "2026-11-14T23:00:00+09:00"
+  },
+  "trend_method": "각 지표의 마지막 관측 시각 기준 최근 24시간 평균과 직전 24시간 평균 비교. 차이 3%p 이상 증가, -3%p 이하 감소, 그 외 유지.",
+  "metrics": {
+    "cpu": {
+      "count": 336,
+      "average": 35.63,
+      "min": 11.76,
+      "min_at": "2026-11-14T19:00:00+09:00",
+      "max": 96.31,
+      "max_at": "2026-11-05T15:00:00+09:00",
+      "latest": 18.1,
+      "latest_at": "2026-11-14T23:00:00+09:00",
+      "recent_24h_average": 31.53,
+      "previous_24h_average": 35.99,
+      "change_pp": -4.46,
+      "trend": "감소",
+      "threshold": 85.0,
+      "threshold_count": 6,
+      "threshold_last_at": "2026-11-05T15:00:00+09:00",
+      "daily": [
+        {
+          "date": "2026-11-01",
+          "average": 31.98,
+          "max": 52.61,
+          "count": 24
+        },
+        {
+          "date": "2026-11-02",
+          "average": 37.81,
+          "max": 58.97,
+          "count": 24
+        },
+        {
+          "date": "2026-11-03",
+          "average": 35.94,
+          "max": 54.55,
+          "count": 24
+        },
+        {
+          "date": "2026-11-04",
+          "average": 34.49,
+          "max": 48.01,
+          "count": 24
+        },
+        {
+          "date": "2026-11-05",
+          "average": 48.12,
+          "max": 96.31,
+          "count": 24
+        },
+        {
+          "date": "2026-11-06",
+          "average": 37.6,
+          "max": 59.59,
+          "count": 24
+        },
+        {
+          "date": "2026-11-07",
+          "average": 30.58,
+          "max": 52.03,
+          "count": 24
+        },
+        {
+          "date": "2026-11-08",
+          "average": 28.07,
+          "max": 45.73,
+          "count": 24
+        },
+        {
+          "date": "2026-11-09",
+          "average": 37.08,
+          "max": 54.09,
+          "count": 24
+        },
+        {
+          "date": "2026-11-10",
+          "average": 37.58,
+          "max": 56.9,
+          "count": 24
+        },
+        {
+          "date": "2026-11-11",
+          "average": 36.87,
+          "max": 60.05,
+          "count": 24
+        },
+        {
+          "date": "2026-11-12",
+          "average": 35.18,
+          "max": 49.21,
+          "count": 24
+        },
+        {
+          "date": "2026-11-13",
+          "average": 35.99,
+          "max": 55.57,
+          "count": 24
+        },
+        {
+          "date": "2026-11-14",
+          "average": 31.53,
+          "max": 51.35,
+          "count": 24
+        }
+      ]
+    },
+    "memory": {
+      "count": 336,
+      "average": 54.53,
+      "min": 42,
+      "min_at": "2026-11-10T08:00:00+09:00",
+      "max": 91.77,
+      "max_at": "2026-11-10T06:00:00+09:00",
+      "latest": 45.75,
+      "latest_at": "2026-11-14T23:00:00+09:00",
+      "recent_24h_average": 46.66,
+      "previous_24h_average": 50.84,
+      "change_pp": -4.18,
+      "trend": "감소",
+      "threshold": 80.0,
+      "threshold_count": 23,
+      "threshold_last_at": "2026-11-10T07:00:00+09:00",
+      "daily": [
+        {
+          "date": "2026-11-01",
+          "average": 50.82,
+          "max": 53.31,
+          "count": 24
+        },
+        {
+          "date": "2026-11-02",
+          "average": 48.23,
+          "max": 51.8,
+          "count": 24
+        },
+        {
+          "date": "2026-11-03",
+          "average": 47.24,
+          "max": 51.32,
+          "count": 24
+        },
+        {
+          "date": "2026-11-04",
+          "average": 51.65,
+          "max": 54.3,
+          "count": 24
+        },
+        {
+          "date": "2026-11-05",
+          "average": 48.24,
+          "max": 52.2,
+          "count": 24
+        },
+        {
+          "date": "2026-11-06",
+          "average": 47.97,
+          "max": 51.04,
+          "count": 24
+        },
+        {
+          "date": "2026-11-07",
+          "average": 59.28,
+          "max": 64.29,
+          "count": 24
+        },
+        {
+          "date": "2026-11-08",
+          "average": 70.96,
+          "max": 75.98,
+          "count": 24
+        },
+        {
+          "date": "2026-11-09",
+          "average": 82.06,
+          "max": 88.34,
+          "count": 24
+        },
+        {
+          "date": "2026-11-10",
+          "average": 63.83,
+          "max": 91.77,
+          "count": 24
+        },
+        {
+          "date": "2026-11-11",
+          "average": 47.11,
+          "max": 50.38,
+          "count": 24
+        },
+        {
+          "date": "2026-11-12",
+          "average": 48.53,
+          "max": 51.84,
+          "count": 24
+        },
+        {
+          "date": "2026-11-13",
+          "average": 50.84,
+          "max": 52.97,
+          "count": 24
+        },
+        {
+          "date": "2026-11-14",
+          "average": 46.66,
+          "max": 49.18,
+          "count": 24
+        }
+      ]
+    }
+  }
+}

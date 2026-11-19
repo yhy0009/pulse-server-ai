@@ -1,0 +1,11 @@
+.venv/
+.env
+.local/
+__pycache__/
+.pytest_cache/
+.vercel/
+dist/
+*.pyc
+.DS_Store
+service-account*.json
+*-firebase-adminsdk-*.json

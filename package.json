@@ -1,0 +1,9 @@
+{
+  "name": "pulse-server-ai-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-frontend.mjs",
+    "check": "node --check frontend/app.js"
+  }
+}
