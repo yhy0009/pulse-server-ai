@@ -1,6 +1,6 @@
 # Pulse 배포 구성
 
-소스 저장소: <https://github.com/yhy0009/pulse-server-ai> (비공개)
+소스 저장소: <https://github.com/yhy0009/pulse-server-ai> (공개)
 
 ## 실제 배포 결과
 
@@ -31,7 +31,7 @@ Vercel은 `frontend` 폴더에서 공식 CLI로 배포했습니다. Vercel의 Gi
 | Health check | `/api/health` |
 | 실제 백엔드 주소 | `https://pulse-server-ai.onrender.com` |
 
-비공개 저장소에 접근할 수 있도록 Render에 해당 GitHub 저장소 읽기 권한을 연결합니다. `render.yaml`의 구성은 Render Blueprint 검증을 통과했습니다.
+Render에는 해당 GitHub 저장소의 배포 연결을 설정했습니다. `render.yaml`의 구성은 Render Blueprint 검증을 통과했습니다.
 
 다음 값은 Render 서버의 환경변수로 설정합니다. 비공개 값은 소스 저장소에 포함하지 않습니다.
 
